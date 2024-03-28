@@ -7,14 +7,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. Set up AWS CLI.
 3. Create an S3 Bucket.
 4. Clone this repository.
-5. Open two terminals, one for frontend and the other for backend.
-6. CD to backend folder in the one of the terminal and run -
+5. Open two terminals, one for the Frontend and the other for the Backend.
+6. CD to the Backend folder in one of the Terminal and run -
 
 ### `npm install`
 ### `npm run dev`
-You should get -> Server listening on port 4000
+You should see -> Server listening on port 4000
 
-7. CD to frontend folder in the other terminal and run -
+7. CD to the Frontend folder in the other terminal and run -
 
 ### `npm install`
 ### `npm start`
