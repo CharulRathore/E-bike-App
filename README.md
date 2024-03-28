@@ -20,7 +20,7 @@ You should get -> Server listening on port 4000
 ### `npm start`
 
 
-Now both frontend and backend are running for us.\
+Now both frontend and backend are running for us.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
