@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How to run the project?
-1. Set up NodeJS and npm.
+1. Set up NodeJS and 'npm'.
 2. Set up AWS CLI.
 3. Create an S3 Bucket.
 4. Clone this repository.
@@ -25,4 +25,3 @@ Now both frontend and backend are running for us.\
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.
