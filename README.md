@@ -27,10 +27,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Reference 
 
-1. [https://www.youtube.com/watch?v=7m_q1ldzw0U&t=1250s](https://www.youtube.com/watch?v=7m_q1ldzw0U&t=1250s)
-2. [https://www.youtube.com/watch?v=Mi86AdywOPk](https://www.youtube.com/watch?v=Mi86AdywOPk)
-3. [https://www.youtube.com/watch?v=IgAE-ycnb94&t=1543s](https://www.youtube.com/watch?v=IgAE-ycnb94&t=1543s)
+1. [https://www.youtube.com/watch?v=vVBqEYNXxy8](https://www.youtube.com/watch?v=vVBqEYNXxy8)
+2. [https://www.youtube.com/watch?v=7m_q1ldzw0U&t=1250s](https://www.youtube.com/watch?v=7m_q1ldzw0U&t=1250s)
+3. [https://www.youtube.com/watch?v=Mi86AdywOPk](https://www.youtube.com/watch?v=Mi86AdywOPk)
 4. [https://www.youtube.com/watch?v=yGYeYJpRWPM&t=208s](https://www.youtube.com/watch?v=yGYeYJpRWPM&t=208s)
-5. [https://www.youtube.com/watch?v=vVBqEYNXxy8](https://www.youtube.com/watch?v=vVBqEYNXxy8)
-6. [https://www.youtube.com/watch?v=U-UKEEz0nd4](https://www.youtube.com/watch?v=U-UKEEz0nd4)
-7. [https://www.youtube.com/watch?v=7T5VbMEJStQ&t=551s](https://www.youtube.com/watch?v=7T5VbMEJStQ&t=551s)
